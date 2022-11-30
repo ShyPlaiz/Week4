@@ -1,0 +1,74 @@
+package TurkeyJurky;
+
+
+public class week4Assignment {
+public static void main(String[] args) {
+	  
+//	int[] ages = { 3, 9, 23, 64, 2, 8, 45, 28, 93}; {
+   
+//	int a = ages[ages.length-1] - ages[0];
+// a).
+//	System.out.println(a);
+	
+// b). New age "45"	 
+//	 System.out.println(a);
+	
+// c).
+//	 for(int i = 0; i < 9; i++) {
+//	 System.out.println(ages[i]);
+	 
+// 2).	 
+	 String names[] = {"Sam", "Tommy", "Tim", "Sally", "Buck", "Bob"}; {
+//a). 
+		 int namesLength = 0;
+		// for(String name : names) {
+		  
+		// sum = name.length();
+           		
+ // b).	 System.out.println(sum / names.length);
+		 
+	// c).	 
+	//for(int i = 0; i < 6; i++) {
+			 
+	//String space = " ";
+	
+//	System.out.print(names[i] += space);
+
+
+	
+	
+	
+	
+// 3). There's two ways to access the last element in an array. with the length of the array - 1 using .length(), or 
+// calling the array specifically using the arrays index if known. ex - ( if there's 9 elements array[8] would be the last.)
+      // int[] array = {11, 22, 33, 44, 55, 66, 77, 88, 99}; {
+    	// System.out.println(array[8]);
+      
+//  4).The first element of an array will always start at 0. for this example its 0 is [11].
+    	  // System.out.println(array[0]);
+
+	
+	//  5). 
+	  
+	   for(int i = 0; i < 6; i++) {
+	   
+		   namesLength += names.length;
+		  
+	   
+	   
+	   
+	   }
+	    
+	   
+	    		
+	    		
+	    		
+	    		
+	    	
+		 
+		 
+	 }
+}
+}
+
+

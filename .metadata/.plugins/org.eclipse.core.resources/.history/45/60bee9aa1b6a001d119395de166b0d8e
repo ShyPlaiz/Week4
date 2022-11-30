@@ -1,0 +1,14 @@
+package TurkeyJurky;
+
+public class week4Assignment {
+public static void main(String[] args) {
+	  
+	int[] ages = { 3, 9, 23, 64, 2, 8, 28, 93}; {
+   
+	int a = ages[0] + ages[ages.length - 1]; 
+	 System.out.println(a);
+
+    
+}
+}
+} 
